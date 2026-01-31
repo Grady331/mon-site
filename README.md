@@ -1,2 +1,6 @@
-# mon-site
-Site personnel de Grady Mayala, étudiant en informatique, présentant mon profil, mes compétences et mes projets.
+index.html
+main.js
+style.css
+admin.html
+admin.js
+images
